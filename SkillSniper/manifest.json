@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "SkillSniper",
+    "version": "1.0",
+    "description": "Upload resume and analyze job description on LinkedIn and is the job best describes you or not",
+    "permissions": ["scripting", "activeTab"],
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+      "128": "icon128.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["*://www.linkedin.com/jobs/*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
