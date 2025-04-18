@@ -1,5 +1,5 @@
 # 🧠SkillSniper
-<img src="https://socialify.git.ci/Gorav22/SkillSniper/image?font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Floating+Cogs&stargazers=1&theme=Dark">
+<img src="https://socialify.git.ci/Gorav22/SkillSniper/image?font=Source+Code+Pro&language=1&name=1&owner=1&pattern=Floating+Cogs&theme=Dark" alt="SkillSniper" width="640" height="320" />
 
 Tired of copy-pasting every job description from LinkedIn into ChatGPT just to ask what’s missing in your resume?  
 **Resume Ranker** is a personal AI **Agent** that reviews your resume based on job descriptions **inside LinkedIn itself**. No tab switching. No manual prompts. Just insights, directly on the site.
