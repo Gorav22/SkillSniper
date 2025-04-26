@@ -1,5 +1,5 @@
 const API_BASE = "http://127.0.0.1:8000"; // Update this when deploying
-
+ 
 document.getElementById("uploadBtn").addEventListener("click", async () => {
   const fileInput = document.getElementById("resumeInput");
   const file = fileInput.files[0];

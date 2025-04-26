@@ -47,7 +47,7 @@ pip install -r requirements.txt
 1. Open **Chrome** and go to `chrome://extensions`
 2. Enable **Developer mode** (top right)
 3. Click **"Load unpacked"**
-4. Select the `Resume-agent-extension` folder from this project
+4. Select the `SkillSniper` folder from this project
 
 ---
 
@@ -62,13 +62,6 @@ This starts a local API server at `http://localhost:8000`.
 ---
 
 > You should now see an **✨ Analyze Resume** button directly on LinkedIn job pages.
-
----
-
-## 💬 Contribute or Feedback
-
-If you found this useful or have suggestions, feel free to create an issue or PR!  
-Also open to feedback, ideas, and cool collaborations!
 
 ---
 
